@@ -15,8 +15,6 @@ import java.util.List;
 @Service
 public class ProductServiceImpl implements ProductService {
 
-    // Service V-0.0.3 SNAPSHOT
-
     private ProductRepository productRepository;
     private JmsTextMessageService jmsTextMessageService;
 

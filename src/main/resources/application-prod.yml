@@ -1,9 +1,9 @@
 profile:
-  message: Este es el perfil de producción
+  message: Este es el perfil de producciï¿½n
 
 spring:
   datasource:
-    url: jdbc:mysql 18.231.88.27:3306/springdevops_prod
+    url: jdbc:mysql://18.231.88.27:3306/springdevops_prod
     username: ENC(KCoqxKqOhZxVmHfotZm0bO9xr06uSmdE)
     password: ENC(xz9x+KwBrVhie99ATmfVK2lnCQ7uZ4aU)
     driver-class-name: com.mysql.cj.jdbc.Driver
